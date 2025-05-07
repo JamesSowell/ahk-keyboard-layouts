@@ -61,7 +61,8 @@ SC034::,
 SC035::.
 
 ; space bar bottom row
-; right alt is SC138
+; right alt is SC138:
+SC138::escape
 ; left alt is SC038
 
 ; left shift remaps to control
