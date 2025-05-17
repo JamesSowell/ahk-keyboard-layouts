@@ -54,11 +54,14 @@ SC02d::v
 SC02e::c
 SC02f::d
 SC030::q
-SC031::escape
+SC031::`
 SC032::m
 SC033::h
 SC034::,
 SC035::.
+
+; map left control to something else
+SC01D::.
 
 ; space bar bottom row
 ; right alt is SC138:
