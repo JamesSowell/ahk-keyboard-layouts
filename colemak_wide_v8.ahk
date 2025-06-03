@@ -1,14 +1,14 @@
 ; maps esc to control 
 SC001::`
 ; maps tilde to control
-SC029::\
+SC029::3
 
 SC002::2
-SC003::4
+SC003::5
 SC004::]
 SC005::1
-SC006::5
-SC007::3
+SC006::|
+SC007::4
 SC008::6
 SC009::7
 SC00a::8
