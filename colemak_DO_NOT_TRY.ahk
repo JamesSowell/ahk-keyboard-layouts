@@ -4,10 +4,10 @@ SC001::`
 SC029::3
 
 SC002::2
-SC003::-
+SC003::5
 SC004::]
 SC005::1
-SC006::5
+SC006::|
 SC007::4
 SC008::6
 SC009::7
@@ -40,9 +40,9 @@ SC01F::r
 SC020::s
 SC021::t
 SC022::g
-SC023::|
+SC023::-
 SC024::k
-SC025::n
+SC025::h
 SC026::e
 SC027::i
 SC028::o
@@ -56,7 +56,7 @@ SC02f::d
 SC030::q
 SC031::`
 SC032::m
-SC033::h
+SC033::x
 SC034::,
 SC035::.
 
@@ -65,7 +65,7 @@ SC01D::.
 
 ; space bar bottom row
 ; right alt is SC138:
-SC138::escape
+SC138::n
 ; left alt is SC038
 
 ; left shift remaps to control

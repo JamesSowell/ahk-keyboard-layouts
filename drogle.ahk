@@ -20,43 +20,43 @@ SC00e::/
 ; Top row
 SC00F::tab
 SC010::=
-SC011::w
-SC012::f
-SC013::p
+SC011::l
+SC012::p
+SC013::d
 SC014::b
 SC015::z
 SC016::j
-SC017::l
-SC018::u
-SC019::y
+SC017::f
+SC018::o
+SC019::u
 SC01A::[
 SC01B::'
 SC02B::backspace
 
 ; Middle row
 SC03A::shift
-SC01E::a
+SC01E::n
 SC01F::r
 SC020::s
 SC021::t
 SC022::g
 SC023::|
 SC024::k
-SC025::n
+SC025::h
 SC026::e
 SC027::i
-SC028::o
+SC028::a
 
 ; Bottom row
 SC02A::control
 SC02c::x
 SC02d::v
 SC02e::c
-SC02f::d
+SC02f::w
 SC030::q
 SC031::`
 SC032::m
-SC033::h
+SC033::y
 SC034::,
 SC035::.
 
