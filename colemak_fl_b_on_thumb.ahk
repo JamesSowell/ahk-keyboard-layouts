@@ -21,12 +21,12 @@ SC00e::/
 SC00F::tab
 SC010::=
 SC011::w
-SC012::f
+SC012::l
 SC013::p
-SC014::b
+SC014::v
 SC015::z
 SC016::j
-SC017::l
+SC017::f
 SC018::u
 SC019::y
 SC01A::[
@@ -50,11 +50,11 @@ SC028::o
 ; Bottom row
 SC02A::control
 SC02c::x
-SC02d::v
+SC02d::q
 SC02e::c
 SC02f::d
-SC030::q
-SC031::`
+SC030::`
+SC031::escape
 SC032::m
 SC033::h
 SC034::'
@@ -65,7 +65,7 @@ SC01D::.
 
 ; space bar bottom row
 ; right alt is SC138:
-SC138::escape
+SC138::b
 ; left alt is SC038
 
 ; left shift remaps to control

@@ -40,7 +40,7 @@ SC01F::r
 SC020::s
 SC021::t
 SC022::g
-SC023::|
+SC023::\
 SC024::k
 SC025::n
 SC026::e
@@ -49,7 +49,7 @@ SC028::o
 
 ; Bottom row
 SC02A::control
-SC02c::x
+SC02c::'
 SC02d::v
 SC02e::c
 SC02f::d
@@ -57,11 +57,11 @@ SC030::q
 SC031::`
 SC032::m
 SC033::h
-SC034::'
+SC034::x
 SC035::.
 
 ; map left control to something else
-SC01D::.
+SC01D::capslock
 
 ; space bar bottom row
 ; right alt is SC138:
