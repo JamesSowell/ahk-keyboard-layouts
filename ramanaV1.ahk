@@ -25,7 +25,7 @@ SC012::c
 SC013::l
 SC014::b
 SC015::z
-SC016::j
+SC016::'
 SC017::f
 SC018::o
 SC019::u
@@ -41,7 +41,7 @@ SC020::s
 SC021::t
 SC022::g
 SC023::|
-SC024::y
+SC024::j
 SC025::n
 SC026::e
 SC027::i
@@ -57,8 +57,8 @@ SC030::q
 SC031::`
 SC032::p
 SC033::m
-SC034::'
-SC035::.
+SC034::.
+SC035::y
 
 ; map left control to something else
 SC01D::.
