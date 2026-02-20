@@ -5,7 +5,7 @@ ScrollLock:: {
     static RemapOn := true ; persists across presses
     RemapOn := !Remapon
     Suspend(!RemapOn)      ; True = suspend (OFF), False =" resume (ON)
-    TryTip("AHK", "Remapping: " (RemapOn ? "ON" : "OFF"))
+    TrayTip("AHK", "Remapping: " (RemapOn ? "ON" : "OFF"))
 }
 #SuspendExempt False ; only F4 stays Exempt
 
