@@ -1,3 +1,17 @@
+; --- AHK v2 ----
+
+#SuspendExempt
+ScrollLock:: {
+    static RemapOn := true ; persists across presses
+    RemapOn := !Remapon
+    Suspend(!RemapOn)      ; True = suspend (OFF), False =" resume (ON)
+    TryTip("AHK", "Remapping: " (RemapOn ? "ON" : "OFF"))
+}
+#SuspendExempt False ; only F4 stays Exempt
+
+; MY REMAPPING BELOW
+
+
 ; maps esc to control 
 SC001::`
 ; maps tilde to control
@@ -70,5 +84,10 @@ SC138::escape
 
 ; left shift remaps to control
 
-
-
+; MORE replacements
+; SC046::CapsLock ; Scroll Lock
+SC045::CapsLock ; Pause/break. NEED the capslock SOMEWHERE
+; SC052::CapsLock ; INSERT
+; SC037::CapsLock ; Print Screen
+; SC047::CapsLock ; HOME
+; SC04F::CapsLock ; end
