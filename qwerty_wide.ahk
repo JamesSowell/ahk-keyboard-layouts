@@ -57,7 +57,7 @@ SC030::,
 SC031::b
 SC032::n
 SC033::m
-SC034::,
+SC034::'
 SC035::.
 
 ; map left control to something else
