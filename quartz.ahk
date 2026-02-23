@@ -36,9 +36,9 @@ SC02B::backspace
 ; Middle row
 SC03A::shift
 ;SC01E::a
-;SC01F::t
+SC01F::t
 ;SC020::d
-;SC021::s
+SC021::s
 ;SC022::g
 SC023::|
 SC024::y
