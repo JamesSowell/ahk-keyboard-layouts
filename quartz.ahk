@@ -44,7 +44,7 @@ SC016::j
 SC017::u
 SC018::o
 SC019::p
-SC01A::k
+SC01A::[
 SC01B::,
 SC02B::backspace
 
@@ -60,7 +60,7 @@ SC024::y
 SC025::n
 SC026::l
 SC027::i
-SC028::[
+SC028::k
 
 ; Bottom row
 SC02A::control
